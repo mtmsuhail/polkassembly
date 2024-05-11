@@ -7,10 +7,6 @@
       "pages/**/**/**/*": {
         "maxDuration": 60,
         "memory": 1024
-      },
-      "cloud-functions/**/*": {
-        "maxDuration": 60,
-        "memory": 1024
       }
     }
   }
