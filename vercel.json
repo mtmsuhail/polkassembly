@@ -1,0 +1,16 @@
+{
+    "functions": {
+      "pages/**/**/*": {
+        "maxDuration": 60,
+        "memory": "1024MB"
+      },
+      "pages/**/**/**/*": {
+        "maxDuration": 60,
+        "memory": "1024MB"
+      },
+      "cloud-functions/**/**/*": {
+        "maxDuration": 60,
+        "memory": "1024MB"
+      }
+    }
+  }
