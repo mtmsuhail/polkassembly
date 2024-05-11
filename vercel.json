@@ -2,15 +2,15 @@
     "functions": {
       "pages/**/**/*": {
         "maxDuration": 60,
-        "memory": "1024MB"
+        "memory": 1024
       },
       "pages/**/**/**/*": {
         "maxDuration": 60,
-        "memory": "1024MB"
+        "memory": 1024
       },
       "cloud-functions/**/**/*": {
         "maxDuration": 60,
-        "memory": "1024MB"
+        "memory": 1024
       }
     }
   }
