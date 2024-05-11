@@ -8,7 +8,7 @@
         "maxDuration": 60,
         "memory": 1024
       },
-      "cloud-functions/**/**/*": {
+      "cloud-functions/**/*": {
         "maxDuration": 60,
         "memory": 1024
       }
